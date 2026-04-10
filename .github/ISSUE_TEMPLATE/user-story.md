@@ -2,7 +2,7 @@
 name: User Story
 about: 'This template is to crate user stories '
 title: ''
-labels: ''
+labels: enhancement, technical debt
 assignees: ''
 
 ---
